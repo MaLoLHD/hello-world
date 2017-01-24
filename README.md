@@ -1,2 +1,3 @@
 # hello-world
-Il tutorial di GitHub
+
+Questo progetto è stato creato e ora modificato per mano del tutorial di GitHub sui commit
